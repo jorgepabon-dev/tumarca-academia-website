@@ -1,35 +1,55 @@
-/wp-content/uploads/
+# WordPress core
+/wp-admin/
+/wp-includes/
+/wp-config.php
+/wp-config-sample.php
+/.htaccess
+/license.txt
+/local-xdebuginfo.php
+/xmlrpc.php
+/wp-activate.php
+/wp-blog-header.php
+/wp-comments-post.php
+/wp-cron.php
+/wp-links-opml.php
+/wp-load.php
+/wp-login.php
+/wp-mail.php
+/wp-settings.php
+/wp-signup.php
+/wp-trackback.php
+/readme.html
+/index.php
+
+# WordPress generated content
 /wp-content/cache/
 /wp-content/upgrade/
+/wp-content/uploads/
 /wp-content/ai1wm-backups/
 /wp-content/backups/
+/wp-content/w3tc-config/
 /wp-content/languages/
-/wp-content/uploads/*
-/wp-content/plugins/elementor/tmp/
-/wp-content/plugins/elementor/cache/
-/wp-config.php
-/.htaccess
+/wp-content/plugins/
+/wp-content/index.php
+
+# Node/npm
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local environment files
+.env
+.idea/
+.vscode/
+
+# Ignore backup files
 *.log
 *.sql
 *.sql.gz
 *.zip
 .DS_Store
 Thumbs.db
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.env
-.idea/
-.vscode/
-
-# Ignore macOS resource forks
-.DS_Store
-
-# ignore local environment files
-*.local
-
-# Ignore backup files
 *~
 *.swp
 *.swo
