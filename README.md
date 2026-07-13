@@ -28,6 +28,13 @@ Para que el código sea fácil de revisar en mi portafolio, la estructura contie
 
 ---
 
+### 🎬 Demostración en Video
+Aquí puedes ver un recorrido rápido por la interfaz, el comportamiento de las secciones informativas y el flujo de navegación:
+
+[Arrastra y suelta tu archivo de video aquí para que GitHub genere el enlace automáticamente]
+
+---
+
 ### 🌐 Demo en Vivo
 Puedes ver el proyecto desplegado y funcionando en el siguiente enlace:
 🔗 [👉 Haz clic aquí para ver la web en vivo 👈](Pega_aquí_el_enlace_real_de_tu_página)
