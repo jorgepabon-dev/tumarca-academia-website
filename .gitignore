@@ -1,0 +1,35 @@
+/wp-content/uploads/
+/wp-content/cache/
+/wp-content/upgrade/
+/wp-content/ai1wm-backups/
+/wp-content/backups/
+/wp-content/languages/
+/wp-content/uploads/*
+/wp-content/plugins/elementor/tmp/
+/wp-content/plugins/elementor/cache/
+/wp-config.php
+/.htaccess
+*.log
+*.sql
+*.sql.gz
+*.zip
+.DS_Store
+Thumbs.db
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+.idea/
+.vscode/
+
+# Ignore macOS resource forks
+.DS_Store
+
+# ignore local environment files
+*.local
+
+# Ignore backup files
+*~
+*.swp
+*.swo
